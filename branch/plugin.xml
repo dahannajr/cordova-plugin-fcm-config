@@ -14,6 +14,6 @@
     </platform>
 
     <platform name="ios">
-        <source-file src="GoogleService-Info.plist" target-dir="./"/>
+        <source-file src="GoogleService-Info.plist" />
     </platform>
 </plugin>
