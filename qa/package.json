@@ -1,0 +1,14 @@
+{
+  "name": "@kickstep/cordova-plugin-fcm-config-qa",
+  "version": "0.9.1",
+  "description": "This plugin copies the required fcm configurations in the project folder",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steffen Tröster",
+  "license": "MIT",
+  "platforms": [
+    "android",
+    "ios"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "256520776462",
+    "firebase_url": "https://api-8818932743300437123-989165.firebaseio.com",
+    "project_id": "api-8818932743300437123-989165",
+    "storage_bucket": "api-8818932743300437123-989165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256520776462:android:ac170b0c1033a7c7",
+        "android_client_info": {
+          "package_name": "com.devrelationshipbarometer.brb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256520776462-1hj8aljm0gdrus98b5647u3pcmj10suv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qfIe_u-Wq_P1RXDzK6cXf26SxPWD-nY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256520776462:android:d9840fdc5872b31b",
+        "android_client_info": {
+          "package_name": "com.branchrelationshipbarometer.brb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256520776462-1hj8aljm0gdrus98b5647u3pcmj10suv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qfIe_u-Wq_P1RXDzK6cXf26SxPWD-nY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256520776462:android:105dcbf3a7d0c1ff",
+        "android_client_info": {
+          "package_name": "com.qarelationshipbarometer.brb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256520776462-1hj8aljm0gdrus98b5647u3pcmj10suv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qfIe_u-Wq_P1RXDzK6cXf26SxPWD-nY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256520776462:android:2290897e0e8bc690",
+        "android_client_info": {
+          "package_name": "com.relationshipbarometer.production"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256520776462-1hj8aljm0gdrus98b5647u3pcmj10suv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qfIe_u-Wq_P1RXDzK6cXf26SxPWD-nY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
